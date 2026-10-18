@@ -17,7 +17,7 @@ local C=Color3.fromRGB
 
 -- ===== WHITELIST (hanya username owner) =====
 local ENABLE_WHITELIST=true
-local AUTHORIZED={"wyzforyou"}
+local AUTHORIZED={"RiyadoDzz"}
 if ENABLE_WHITELIST then
 	local allowed=false
 	for _,n in ipairs(AUTHORIZED) do
